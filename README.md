@@ -23,9 +23,9 @@ O objetivo deste projeto é criar um layout dinâmico que apresenta os diferente
 
 ## **🎥 Demonstração**
 
-![Demonstração da página](/assets/demo/demo-image.png)
-![Demonstração da página](/assets/demo/demo-image1.png)
-![Demonstração da página](/assets/demo/demo-image2.png)
+![Demonstração da página](assets/demo/demo-image.png)
+![Demonstração da página](assets/demo/demo-image1.png)
+![Demonstração da página](assets/demo/demo-image2.png)
 
 ---
 
